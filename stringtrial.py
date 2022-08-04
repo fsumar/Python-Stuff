@@ -11,5 +11,4 @@ if isinstance(strings, str):
 if isinstance (whole, int) and whole == 20:
     print('well done')
 if isinstance (floats, float) and floats == 7.0:
-    print('good') 
-    print(floats)
+    print("good %f " % floats) 
